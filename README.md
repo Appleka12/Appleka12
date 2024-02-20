@@ -8,6 +8,7 @@ Projects:
 2. FRC Crescendo 2024 Code
 3. Worked on Dislack (Discord - Slack Connection) with Mihir45
 4. Custom Built Laptop
+5. Building a Undertale inspired game with GameMaker 2
 
 
 
