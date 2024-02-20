@@ -1,8 +1,13 @@
 Aspiring Data and Computer Science Major
+ - Highschool Sophomore at LTHS
+ - Orchestra Student
  - Currently a Programmer for the FRC Team 7503:Radicubs
 
-Projects I've Done:
+Projects:
 1. Vision on Jetson Nano for Radicubs
-2. Worked on Dislack (Discord - Slack Connection) with Mihir45
-3. Custom Built Laptop
+2. FRC Crescendo 2024 Code
+3. Worked on Dislack (Discord - Slack Connection) with Mihir45
+4. Custom Built Laptop
+
+
 
