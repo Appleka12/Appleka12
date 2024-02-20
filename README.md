@@ -3,6 +3,6 @@ Aspiring Data and Computer Science Major
 
 Projects I've Done:
 1. Vision on Jetson Nano for Radicubs
-2. Worked on Dislack with MihirSood45
+2. Worked on Dislack (Discord - Slack Connection) with Mihir45
 3. Custom Built Laptop
 
