@@ -1,7 +1,7 @@
 Aspiring Data and Computer Science Major
  - Highschool Sophomore at LTHS
  - Orchestra Student
- - Currently a Programmer for the FRC Team 7503(Radicubs)
+ - Currently a Programmer for the FRC Team 7503 (Radicubs)
 
 Projects:
 1. Vision on Jetson Nano for Radicubs
